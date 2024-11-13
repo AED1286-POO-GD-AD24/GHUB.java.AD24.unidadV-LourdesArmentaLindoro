@@ -1,6 +1,6 @@
-# Proyecto - Java con Pruebas para Autograding
+# Proyecto - Manejo de Excepciones
 
-Plantilla básica para proyecto de Java con Autograding
+
 
 ## Diagrama de clases
 [Editor en línea](https://mermaid.live/)
